@@ -4,7 +4,7 @@ Tugas Metode Penelitian dengan judul
 "Perbandingan Model Convolutional Neural Network(CNN) dan Model Support Vector Machine(SVM) untuk Mendeteksi Penyakit Daun Mangga".
 ```
 
-Saya mengambil Data set dari [Kaggle] (https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset)
+Saya mengambil Data set dari [Kaggle](https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset)
 
 Menggunakan Python library CNN
 ```python
